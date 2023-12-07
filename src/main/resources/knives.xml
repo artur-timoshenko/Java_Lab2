@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KnifeStore>
+    <Knife>
+        <id>1</id>
+        <type>Knife</type>
+        <handy>1</handy>
+        <origin>India</origin>
+
+        <visual>
+            <bladeLengthCm>10</bladeLengthCm>
+            <bladeWidthMm>21</bladeWidthMm>
+            <material>Steel</material>
+            <handle>Indian banyan</handle>
+            <bloodGroove>false</bloodGroove>
+        </visual>
+
+        <value>true</value>
+    </Knife>
+
+    <Knife>
+        <id>2</id>
+        <type>Saber</type>
+        <handy>2</handy>
+        <origin>German</origin>
+
+        <visual>
+            <bladeLengthCm>60</bladeLengthCm>
+            <bladeWidthMm>5</bladeWidthMm>
+            <material>Steel</material>
+            <handle>Metal</handle>
+            <bloodGroove>true</bloodGroove>
+        </visual>
+
+        <value>false</value>
+    </Knife>
+
+    <Knife>
+        <id>3</id>
+        <type>Dagger</type>
+        <handy>1</handy>
+        <origin>USA</origin>
+
+        <visual>
+            <bladeLengthCm>21</bladeLengthCm>
+            <bladeWidthMm>10</bladeWidthMm>
+            <material>Steel</material>
+            <handle>Carbone</handle>
+            <bloodGroove>false</bloodGroove>
+        </visual>
+
+        <value>true</value>
+    </Knife>
+
+    <Knife>
+        <id>4</id>
+        <type>Machete</type>
+        <handy>1</handy>
+        <origin>Brazil</origin>
+
+        <visual>
+            <bladeLengthCm>70</bladeLengthCm>
+            <bladeWidthMm>30</bladeWidthMm>
+            <material>Steel</material>
+            <handle>Rubber</handle>
+            <bloodGroove>true</bloodGroove>
+        </visual>
+
+        <value>false</value>
+    </Knife>
+
+
+</KnifeStore>
